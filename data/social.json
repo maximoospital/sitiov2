@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/maximoospital",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "behance",
+      "url": "http://behance.net/vegapunkwrx",
+      "image": "images/social/behance.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/maximoospital",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
